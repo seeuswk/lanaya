@@ -1,7 +1,0 @@
-baseURL = 'https://seeuswk.github.io/lanaya/'
-languageCode = 'en-us'
-title = "Syh's Blog"
-theme = "hyde"
-description = "sunyuanhui's blog for life and work"
-[params]
-  themeColor = "theme-base-0b"
