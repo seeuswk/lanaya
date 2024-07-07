@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Syh&#39;s Blog</title>
-    <link>https://seeuswk.github.io/lanaya/post/</link>
+    <link>http://localhost:1313/lanaya/post/</link>
     <description>Recent content in Posts on Syh&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Jun 2024 22:22:45 +0800</lastBuildDate>
-    <atom:link href="https://seeuswk.github.io/lanaya/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/lanaya/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://seeuswk.github.io/lanaya/post/first/</link>
+      <link>http://localhost:1313/lanaya/post/first/</link>
       <pubDate>Sun, 16 Jun 2024 22:22:45 +0800</pubDate>
-      <guid>https://seeuswk.github.io/lanaya/post/first/</guid>
+      <guid>http://localhost:1313/lanaya/post/first/</guid>
       <description>first my first blog for test</description>
     </item>
   </channel>
