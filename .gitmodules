@@ -1,0 +1,3 @@
+[submodule "code/themes/FixIt"]
+	path = code/themes/FixIt
+	url = git@github.com:hugo-fixit/FixIt.git
