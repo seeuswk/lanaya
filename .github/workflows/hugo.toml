@@ -1,3 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://seeuswk.github.io/lanaya/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-0b"
