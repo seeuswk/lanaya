@@ -34,7 +34,7 @@ jobs:
         run: hugo --gc --minify
 
       - name: Deploy to Github Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: JamesIves/github-pages-deploy-action@v4.3.3
         with:
           # See https://github.com/JamesIves/github-pages-deploy-action#configuration-
           branch: gh-pages
