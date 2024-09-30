@@ -18,3 +18,4 @@ summaryLength = 150
 # ignore some build errors
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 withSiteTitle = false
+disableThemeInject = true
