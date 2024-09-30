@@ -6,8 +6,10 @@
 title = "Syh's Blog"
 baseURL = "https://seeuswk.github.io/lanaya/"
 theme = "FixIt"
-defaultContentLanguage = "cn"
-languageCode = "cn"
+defaultContentLanguage = "zh-cn"
+languageCode = "zh-CN"
+languageName = "简体中文"
+disableLanguages = ["en", "zh-tw"]
 hasCJKLanguage = true
 enableRobotsTXT = true
 enableEmoji = true
