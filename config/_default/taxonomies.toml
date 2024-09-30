@@ -3,6 +3,6 @@
 # See: https://gohugo.io/content-management/taxonomies/#configure-taxonomies
 # -------------------------------------------------------------------------------------
 
-category = "categories"
-tag = "tags"
-collection = "collections"
+category = "分类"
+tag = "标签"
+collection = "集合"
