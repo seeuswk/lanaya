@@ -6,8 +6,8 @@
 title = "Syh's Blog"
 baseURL = "https://seeuswk.github.io/lanaya/"
 theme = "FixIt"
-defaultContentLanguage = "en"
-languageCode = "en"
+defaultContentLanguage = "cn"
+languageCode = "cn"
 hasCJKLanguage = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -17,3 +17,4 @@ buildDrafts = false
 summaryLength = 150
 # ignore some build errors
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
+withSiteTitle = false
