@@ -26,7 +26,7 @@ externalIcon = false
 navigationReverse = false
 # FixIt 0.3.0 | NEW whether to add site title to the title of every page
 # remember to set up your site title in `hugo.toml` (e.g. title = "title")
-withSiteTitle = true
+withSiteTitle = false
 # FixIt 0.3.0 | NEW title delimiter when the site title is be added to the title of every page
 titleDelimiter = "-"
 # FixIt 0.3.0 | NEW whether to add site subtitle to the title of index page
